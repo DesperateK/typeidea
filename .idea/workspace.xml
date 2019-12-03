@@ -1,15 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4c03baa-0b31-4fd0-8f6b-16c51d95ed67" name="Default Changelist" comment="" />
+    <list default="true" id="c4c03baa-0b31-4fd0-8f6b-16c51d95ed67" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typeidea/settings/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/typeidea/settings/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typeidea/settings/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/typeidea/settings/base.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1US4VlaDLcQGQQs5haxK5B2B3nO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -36,5 +70,16 @@
       <updated>1575336688938</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
